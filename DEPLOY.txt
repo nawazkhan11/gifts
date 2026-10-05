@@ -1,0 +1,44 @@
+# GitHub Pages pe host kaise karein (simple steps)
+
+Upload sirf `github-pages` folder ki ye 5 files:
+- index.html
+- style.css
+- app.js
+- config.js
+- .nojekyll
+
+---
+
+## Step 1: GitHub pe naya repo banao
+1. https://github.com/new kholo
+2. Repository name likho (example: `gift-surprise`)
+3. Public select karo
+4. **Create repository** dabao
+
+## Step 2: Files upload karo
+1. Repo page pe **uploading an existing file** / **Add file → Upload files**
+2. `github-pages` folder se ye files drag-drop karo (folder ke ANDAR ki files, folder nahi)
+3. **Commit changes** dabao
+
+## Step 3: Pages ON karo
+1. Repo → **Settings**
+2. Left side → **Pages**
+3. Branch: **main** (ya master)
+4. Folder: **/ (root)**
+5. **Save**
+
+## Step 4: Link copy karo
+1–2 minute baad site live hogi:
+
+`https://YOUR_USERNAME.github.io/REPO_NAME/`
+
+Example: `https://nawazkkhan.github.io/gift-surprise/`
+
+---
+
+## Test
+1. Site kholo
+2. **Allow** dabao (location)
+3. Apne Gmail me location email check karo (Spam bhi)
+
+Gift box pe tap karke message open hoga.
